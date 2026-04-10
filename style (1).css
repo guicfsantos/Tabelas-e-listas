@@ -1,0 +1,51 @@
+body{
+    background: url("https://static.gazetaesportiva.com/uploads/ronaldinho-gaucc81cho-barcelona-20071209-006.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+
+h1{
+    font-size: 400%;
+    color: darkred;
+    text-align: center;
+}
+p{
+    font-size: 180%;
+    margin-left: 02%;
+    margin-right: 02%;
+    color: aliceblue;
+   
+}
+h2{
+        font-size: 250%;
+    margin-left: 02%;
+    margin-right: 02%;
+    color: aliceblue;
+}
+ol{
+    font-size: 250%;
+    margin-left: 02%;
+    margin-right: 02%;
+    color: aliceblue;
+}
+ul{
+    font-size: 250%;
+    margin-left: 02%;
+    margin-right: 02%;
+    color: aliceblue;
+}
+dl{
+    font-size: 250%;
+    margin-left: 02%;
+    margin-right: 02%;
+    color: aliceblue;
+}
+table{
+    font-size: 180%;
+    margin-left: 02%;
+    margin-right: 02%;
+    color: aliceblue;
+}
